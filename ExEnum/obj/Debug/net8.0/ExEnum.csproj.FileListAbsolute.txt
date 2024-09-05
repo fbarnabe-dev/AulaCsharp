@@ -1,0 +1,15 @@
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\bin\Debug\net8.0\ExEnum.exe
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\bin\Debug\net8.0\ExEnum.deps.json
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\bin\Debug\net8.0\ExEnum.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\bin\Debug\net8.0\ExEnum.dll
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\bin\Debug\net8.0\ExEnum.pdb
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.sourcelink.json
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.dll
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\refint\ExEnum.dll
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.pdb
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ExEnum.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ExEnum\ExEnum\obj\Debug\net8.0\ref\ExEnum.dll

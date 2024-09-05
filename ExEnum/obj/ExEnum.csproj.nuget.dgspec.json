@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FELIPE-TI\\source\\repos\\ExEnum\\ExEnum\\ExEnum.csproj": {}
+    "D:\\Visual Studio Community\\Projetos\\ExEnum\\ExEnum\\ExEnum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FELIPE-TI\\source\\repos\\ExEnum\\ExEnum\\ExEnum.csproj": {
+    "D:\\Visual Studio Community\\Projetos\\ExEnum\\ExEnum\\ExEnum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FELIPE-TI\\source\\repos\\ExEnum\\ExEnum\\ExEnum.csproj",
+        "projectUniqueName": "D:\\Visual Studio Community\\Projetos\\ExEnum\\ExEnum\\ExEnum.csproj",
         "projectName": "ExEnum",
-        "projectPath": "C:\\Users\\FELIPE-TI\\source\\repos\\ExEnum\\ExEnum\\ExEnum.csproj",
+        "projectPath": "D:\\Visual Studio Community\\Projetos\\ExEnum\\ExEnum\\ExEnum.csproj",
         "packagesPath": "C:\\Users\\FELIPE-TI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FELIPE-TI\\source\\repos\\ExEnum\\ExEnum\\obj\\",
+        "outputPath": "D:\\Visual Studio Community\\Projetos\\ExEnum\\ExEnum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
